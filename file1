@@ -1,3 +1,13 @@
 for i in'cat123'
 do
 operations
+
+
+
+
+fir i in 'cat 123'
+do
+operations 
+done
+
+
